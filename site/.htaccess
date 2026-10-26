@@ -1,0 +1,6 @@
+Options -Indexes
+DirectoryIndex index.php
+RewriteEngine On
+RewriteRule ^index\.php$ - [L]
+RewriteRule ^ index.php [END]
+SetEnvIfNoCase Authorization "^(.*)" HTTP_AUTHORIZATION=$1

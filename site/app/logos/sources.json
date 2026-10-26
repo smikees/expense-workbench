@@ -1,0 +1,53 @@
+{
+  "license": "CC0-1.0; trademarks remain their owners",
+  "brands": [
+    {
+      "id": "uber",
+      "name": "Uber",
+      "path": "/logos/uber.svg",
+      "source": "https://unpkg.com/simple-icons@16.35.0/icons/uber.svg",
+      "sha256": "29eaa0ec30571c0694e7e42ab34816adb5955e414248c240b2b82dee3d8b75ca",
+      "status": "available"
+    },
+    {
+      "id": "ikea",
+      "name": "IKEA",
+      "path": "/logos/ikea.svg",
+      "source": "https://unpkg.com/simple-icons@16.35.0/icons/ikea.svg",
+      "sha256": "3c87b16786036f20b7fd7fd40e94647576fb5ac9b78382836073aa6b66d7a4fd",
+      "status": "available"
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "path": "/logos/youtube.svg",
+      "source": "https://unpkg.com/simple-icons@16.35.0/icons/youtube.svg",
+      "sha256": "7f5156448b9c1b65156e34e4443f0eff8b85f5afa783fc8a8d09f49380fed424",
+      "status": "available"
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "path": "/logos/apple.svg",
+      "source": "https://unpkg.com/simple-icons@16.35.0/icons/apple.svg",
+      "sha256": "cbc36e6e70deb9764f033108a090de80df021a665b6209e4cf44f8bad06fd8db",
+      "status": "available"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "path": "/logos/anthropic.svg",
+      "source": "https://unpkg.com/simple-icons@16.35.0/icons/anthropic.svg",
+      "sha256": "1c10881e4729127e1a86e569613d786240acae13eacfa01860be065b66260e36",
+      "status": "available"
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "path": "/logos/netflix.svg",
+      "source": "https://unpkg.com/simple-icons@16.35.0/icons/netflix.svg",
+      "sha256": "76b63a30adeb0eb51039fd6a4d783e806fb002aaa6a8ac9218afe8a620bff678",
+      "status": "available"
+    }
+  ]
+}

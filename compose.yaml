@@ -1,0 +1,49 @@
+# Pin tested releases by tag/digest in .env before running. Never auto-upgrade a ledger.
+services:
+  database:
+    image: ${DATABASE_IMAGE:?Choose a supported pinned MariaDB image}
+    restart: unless-stopped
+    environment:
+      MARIADB_DATABASE: firefly
+      MARIADB_USER: firefly
+      MARIADB_PASSWORD: ${DB_PASSWORD:?Generate a unique database password}
+      MARIADB_RANDOM_ROOT_PASSWORD: "yes"
+    volumes:
+      - database:/var/lib/mysql
+  firefly:
+    image: ${FIREFLY_IMAGE:?Choose a tested pinned Firefly image}
+    restart: unless-stopped
+    depends_on:
+      - database
+    ports:
+      - "127.0.0.1:8080:8080"
+    environment:
+      APP_KEY: ${APP_KEY:?Generate a unique Firefly application key}
+      APP_URL: http://127.0.0.1:8080
+      DB_CONNECTION: mysql
+      DB_HOST: database
+      DB_PORT: 3306
+      DB_DATABASE: firefly
+      DB_USERNAME: firefly
+      DB_PASSWORD: ${DB_PASSWORD}
+      TZ: ${TZ:-UTC}
+    volumes:
+      - uploads:/var/www/html/storage/upload
+  importer:
+    image: ${IMPORTER_IMAGE:?Choose a tested pinned Data Importer image}
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8081:8080"
+    environment:
+      FIREFLY_III_URL: http://firefly:8080
+      VANITY_URL: http://127.0.0.1:8080
+      FIREFLY_III_ACCESS_TOKEN: ${FIREFLY_III_ACCESS_TOKEN:-}
+      IMPORT_DIR_ALLOWLIST: /import
+      TZ: ${TZ:-UTC}
+    volumes:
+      - ./imports:/import
+      - importer-storage:/var/www/html/storage
+volumes:
+  database:
+  uploads:
+  importer-storage:

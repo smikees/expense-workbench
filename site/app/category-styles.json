@@ -1,0 +1,174 @@
+{
+  "Bank fees": [
+    "#596475",
+    "receipt-money"
+  ],
+  "Bank interest & rewards": [
+    "#466d28",
+    "gift-card-money"
+  ],
+  "Child support": [
+    "#963c66",
+    "person-heart"
+  ],
+  "Clothing": [
+    "#855093",
+    "clothes-hanger"
+  ],
+  "Digital purchases": [
+    "#655290",
+    "receipt-play"
+  ],
+  "Electricity": [
+    "#805e13",
+    "flash"
+  ],
+  "Electronics": [
+    "#435c99",
+    "laptop"
+  ],
+  "Entertainment": [
+    "#97522c",
+    "movies-and-tv"
+  ],
+  "Family support": [
+    "#8b476f",
+    "people-community"
+  ],
+  "Food": [
+    "#995020",
+    "food"
+  ],
+  "Groceries": [
+    "#36713e",
+    "cart"
+  ],
+  "Health": [
+    "#287765",
+    "briefcase-medical"
+  ],
+  "Heating": [
+    "#a0482a",
+    "fire"
+  ],
+  "Household contributions": [
+    "#456d60",
+    "home-heart"
+  ],
+  "Interest": [
+    "#4c7040",
+    "arrow-trending"
+  ],
+  "Internet": [
+    "#1f7280",
+    "wifi-1"
+  ],
+  "Household support": [
+    "#a13c70",
+    "people-interwoven"
+  ],
+  "Loan repayments": [
+    "#705b43",
+    "book-coins"
+  ],
+  "Needs review": [
+    "#885b16",
+    "document-question-mark"
+  ],
+  "Orders": [
+    "#906515",
+    "food-pizza"
+  ],
+  "Personal care": [
+    "#8c4969",
+    "cut"
+  ],
+  "Personal sales": [
+    "#427335",
+    "tag"
+  ],
+  "Personal spending": [
+    "#615874",
+    "wallet"
+  ],
+  "Phone & internet": [
+    "#286d7e",
+    "wifi-1"
+  ],
+  "Rent": [
+    "#335d8c",
+    "home"
+  ],
+  "Restaurants": [
+    "#a04836",
+    "bowl-chopsticks"
+  ],
+  "Salary": [
+    "#326958",
+    "briefcase"
+  ],
+  "Shopping": [
+    "#78539e",
+    "shopping-bag"
+  ],
+  "Software & AI": [
+    "#535ca0",
+    "sparkle"
+  ],
+  "Subscriptions": [
+    "#745095",
+    "calendar-arrow-repeat-all"
+  ],
+  "Taxes": [
+    "#6b6250",
+    "building-government"
+  ],
+  "Transfer": [
+    "#506c7a",
+    "arrow-swap"
+  ],
+  "Transport": [
+    "#256c70",
+    "vehicle-bus"
+  ],
+  "Travel": [
+    "#3869a2",
+    "airplane"
+  ],
+  "Uncategorized": [
+    "#7b611f",
+    "tag-question-mark"
+  ],
+  "Utilities": [
+    "#276b86",
+    "plug-connected"
+  ],
+  "Water": [
+    "#246fa2",
+    "drop"
+  ],
+  "Rides & taxis": [
+    "#346e78",
+    "vehicle-cab"
+  ],
+  "Public transport": [
+    "#357268",
+    "vehicle-bus"
+  ],
+  "Train": [
+    "#45678e",
+    "vehicle-subway"
+  ],
+  "Car Rentals": [
+    "#526793",
+    "vehicle-car"
+  ],
+  "Plane": [
+    "#4160a4",
+    "airplane"
+  ],
+  "Hotels": [
+    "#67538d",
+    "building"
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "collection": "Fluent UI System Icons",
+  "license": "MIT",
+  "download_url": "https://api.iconify.design/fluent.json?icons=airplane-24-regular,arrow-swap-24-regular,arrow-trending-24-regular,book-coins-24-regular,bowl-chopsticks-24-regular,briefcase-24-regular,briefcase-medical-24-regular,building-24-regular,building-government-24-regular,calendar-arrow-repeat-all-24-regular,cart-24-regular,clothes-hanger-24-regular,cut-24-regular,document-question-mark-24-regular,drop-24-regular,fire-24-regular,flash-24-regular,food-24-regular,food-pizza-24-regular,gift-card-money-24-regular,home-24-regular,home-heart-24-regular,laptop-24-regular,movies-and-tv-24-regular,people-community-24-regular,people-interwoven-24-regular,person-heart-24-regular,plug-connected-24-regular,receipt-money-24-regular,receipt-play-24-regular,shopping-bag-24-regular,sparkle-24-regular,tag-24-regular,tag-question-mark-24-regular,vehicle-bus-24-regular,vehicle-cab-24-regular,vehicle-car-24-regular,vehicle-subway-24-regular,wallet-24-regular,wifi-1-24-regular",
+  "icons": {
+    "airplane-24-regular": {
+      "icon": "fluent:airplane-24-regular",
+      "path": "/category-icons/airplane-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/airplane-24-regular/",
+      "sha256": "a7de5c800f2921e20e4411625481a2d7acd63ebc4f325e02414d7cbc879b58d5"
+    },
+    "arrow-swap-24-regular": {
+      "icon": "fluent:arrow-swap-24-regular",
+      "path": "/category-icons/arrow-swap-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/arrow-swap-24-regular/",
+      "sha256": "fe95768bf276472cbc915d3d5c06c14bbbb5086ff710b935283cf5bdede629dd"
+    },
+    "arrow-trending-24-regular": {
+      "icon": "fluent:arrow-trending-24-regular",
+      "path": "/category-icons/arrow-trending-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/arrow-trending-24-regular/",
+      "sha256": "8729ec3f836c44a2fdfba851db6a5cb794d97c55a387fed1d75b132734237589"
+    },
+    "book-coins-24-regular": {
+      "icon": "fluent:book-coins-24-regular",
+      "path": "/category-icons/book-coins-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/book-coins-24-regular/",
+      "sha256": "6ca22547ac565b79b33ae00f3d833f6c76fcd5f3657901e964613a1c267d0766"
+    },
+    "bowl-chopsticks-24-regular": {
+      "icon": "fluent:bowl-chopsticks-24-regular",
+      "path": "/category-icons/bowl-chopsticks-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/bowl-chopsticks-24-regular/",
+      "sha256": "c265a16274a657724e06adfcbab425b50fea59ee4bedc7159a3f6b1fd87ce7db"
+    },
+    "briefcase-24-regular": {
+      "icon": "fluent:briefcase-24-regular",
+      "path": "/category-icons/briefcase-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/briefcase-24-regular/",
+      "sha256": "454d86b2a2b2ec9f68a26d630a3953717206898ebcea798eb407190781aad719"
+    },
+    "briefcase-medical-24-regular": {
+      "icon": "fluent:briefcase-medical-24-regular",
+      "path": "/category-icons/briefcase-medical-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/briefcase-medical-24-regular/",
+      "sha256": "c72266eb0226d9443bbdc6ba0caa9d84c73cf095f1e1906f4ee8b8f1308e1c04"
+    },
+    "building-24-regular": {
+      "icon": "fluent:building-24-regular",
+      "path": "/category-icons/building-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/building-24-regular/",
+      "sha256": "94acb6fc26ebe94168c566936ebdf465cf4d4d71754959a4fd9b9fbd858731f7"
+    },
+    "building-government-24-regular": {
+      "icon": "fluent:building-government-24-regular",
+      "path": "/category-icons/building-government-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/building-government-24-regular/",
+      "sha256": "fd4a1a4effe49efd7a62df78036620d1b31d45df3a403f221afd234cb336ef06"
+    },
+    "calendar-arrow-repeat-all-24-regular": {
+      "icon": "fluent:calendar-arrow-repeat-all-24-regular",
+      "path": "/category-icons/calendar-arrow-repeat-all-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/calendar-arrow-repeat-all-24-regular/",
+      "sha256": "b92f1c7907872ecee6d9e4fa0164560c0d594eb43da196c3fe185f5bd7007887"
+    },
+    "cart-24-regular": {
+      "icon": "fluent:cart-24-regular",
+      "path": "/category-icons/cart-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/cart-24-regular/",
+      "sha256": "2f333533acd07a5687e046be04b694abd3b4fcc5a684bc1f023f8ea2ce71ab63"
+    },
+    "clothes-hanger-24-regular": {
+      "icon": "fluent:clothes-hanger-24-regular",
+      "path": "/category-icons/clothes-hanger-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/clothes-hanger-24-regular/",
+      "sha256": "436796de8013d2d893efea7df9bf81457e8cfb47401cf31fd45c306d2676291a"
+    },
+    "cut-24-regular": {
+      "icon": "fluent:cut-24-regular",
+      "path": "/category-icons/cut-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/cut-24-regular/",
+      "sha256": "feef80f6901709dd61e960562be65b45a4d68ae7b8ab9705fdabadfa4ef673ce"
+    },
+    "document-question-mark-24-regular": {
+      "icon": "fluent:document-question-mark-24-regular",
+      "path": "/category-icons/document-question-mark-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/document-question-mark-24-regular/",
+      "sha256": "f16ffd621654e3fc1b8b4478ab25129e984a1394a9f0fa8ccbfd63a405104aee"
+    },
+    "drop-24-regular": {
+      "icon": "fluent:drop-24-regular",
+      "path": "/category-icons/drop-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/drop-24-regular/",
+      "sha256": "dc03d55c54a2412f1bd52c5ec4bb8b77fc70ee39fd10d3d35bc1748e9ff9b475"
+    },
+    "fire-24-regular": {
+      "icon": "fluent:fire-24-regular",
+      "path": "/category-icons/fire-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/fire-24-regular/",
+      "sha256": "166961f79001061caced6b3d3e9f43b4f848623a2a98bd43f3b1c0bef6bbf53c"
+    },
+    "flash-24-regular": {
+      "icon": "fluent:flash-24-regular",
+      "path": "/category-icons/flash-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/flash-24-regular/",
+      "sha256": "73b35653eee04c9b2daeb4a8ce00f4fa9a803c33c7222f789655a7fde5c60d50"
+    },
+    "food-24-regular": {
+      "icon": "fluent:food-24-regular",
+      "path": "/category-icons/food-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/food-24-regular/",
+      "sha256": "4b1f3d0dc3c509bf6e01d32da32416f2bfe17bd7ace5c9eed53922db966ae753"
+    },
+    "food-pizza-24-regular": {
+      "icon": "fluent:food-pizza-24-regular",
+      "path": "/category-icons/food-pizza-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/food-pizza-24-regular/",
+      "sha256": "4c47b87d43402d093e4e0a27de6f8a1c9b359fa412be39c1b432d328c7a5a1a1"
+    },
+    "gift-card-money-24-regular": {
+      "icon": "fluent:gift-card-money-24-regular",
+      "path": "/category-icons/gift-card-money-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/gift-card-money-24-regular/",
+      "sha256": "29a1a909eb50bce47d9d3d58fce7eecea138c90919f729d7d7f6602fc002db8f"
+    },
+    "home-24-regular": {
+      "icon": "fluent:home-24-regular",
+      "path": "/category-icons/home-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/home-24-regular/",
+      "sha256": "638f0dc0f546e4b1b33e909dd4f56a938101f844d798052b9fda27ea0e4c5fa7"
+    },
+    "home-heart-24-regular": {
+      "icon": "fluent:home-heart-24-regular",
+      "path": "/category-icons/home-heart-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/home-heart-24-regular/",
+      "sha256": "6154979caf9b3c03e07a9a031b27398d3e9fc394f3f2dddbc7f283a00fb37516"
+    },
+    "laptop-24-regular": {
+      "icon": "fluent:laptop-24-regular",
+      "path": "/category-icons/laptop-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/laptop-24-regular/",
+      "sha256": "ff888e62055570a27f3a599051c0b84170261a60f7fc886aad0c7b204b64abde"
+    },
+    "movies-and-tv-24-regular": {
+      "icon": "fluent:movies-and-tv-24-regular",
+      "path": "/category-icons/movies-and-tv-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/movies-and-tv-24-regular/",
+      "sha256": "6ae0ecaca81f0d92dc4b1dc560ca8d74beba62b46710cd829fa83bfd53abecec"
+    },
+    "people-community-24-regular": {
+      "icon": "fluent:people-community-24-regular",
+      "path": "/category-icons/people-community-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/people-community-24-regular/",
+      "sha256": "9f32af6c58279ff95853ce1705101055bb3f9d66e1aeb0cbff3431750a30ee33"
+    },
+    "people-interwoven-24-regular": {
+      "icon": "fluent:people-interwoven-24-regular",
+      "path": "/category-icons/people-interwoven-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/people-interwoven-24-regular/",
+      "sha256": "839d085ee23a949119ac35ecef9aff9f80f7d45e974debf380d23e3707fa8824"
+    },
+    "person-heart-24-regular": {
+      "icon": "fluent:person-heart-24-regular",
+      "path": "/category-icons/person-heart-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/person-heart-24-regular/",
+      "sha256": "7a0c49e81c606d45949208d89f78e9e7da821bf4cda3bba4fedacd99f45b9831"
+    },
+    "plug-connected-24-regular": {
+      "icon": "fluent:plug-connected-24-regular",
+      "path": "/category-icons/plug-connected-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/plug-connected-24-regular/",
+      "sha256": "60600358603fc0d568bf3a40443c4bdaf5736c5210c0218f318500dc5854e5b1"
+    },
+    "receipt-money-24-regular": {
+      "icon": "fluent:receipt-money-24-regular",
+      "path": "/category-icons/receipt-money-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/receipt-money-24-regular/",
+      "sha256": "47f8ad860e21428fd6164c75043b0b384e3f134992b1daaf94ddb59b0790293b"
+    },
+    "receipt-play-24-regular": {
+      "icon": "fluent:receipt-play-24-regular",
+      "path": "/category-icons/receipt-play-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/receipt-play-24-regular/",
+      "sha256": "64626ef8a8243561fcb5a3fdaf431ac7099e5862d0488b30f7e26490b7be2d96"
+    },
+    "shopping-bag-24-regular": {
+      "icon": "fluent:shopping-bag-24-regular",
+      "path": "/category-icons/shopping-bag-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/shopping-bag-24-regular/",
+      "sha256": "e22c1804d5de978204603dc2e84fa1675adfe582251a53a4806ae67b8e9c759a"
+    },
+    "sparkle-24-regular": {
+      "icon": "fluent:sparkle-24-regular",
+      "path": "/category-icons/sparkle-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/sparkle-24-regular/",
+      "sha256": "61a6cf1cf8abb6e504d669a4e799d7d40c6452e43d985bae38efae412879e4ce"
+    },
+    "tag-24-regular": {
+      "icon": "fluent:tag-24-regular",
+      "path": "/category-icons/tag-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/tag-24-regular/",
+      "sha256": "779ebd726771b2d3f443bce1f568d0c27facd61a7dd4dfb05c8d01c46aef8dd0"
+    },
+    "tag-question-mark-24-regular": {
+      "icon": "fluent:tag-question-mark-24-regular",
+      "path": "/category-icons/tag-question-mark-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/tag-question-mark-24-regular/",
+      "sha256": "05913d7e23ccccaca731c601250b8bdf82d17ee4e13db6d0de2904c13df12ae2"
+    },
+    "vehicle-bus-24-regular": {
+      "icon": "fluent:vehicle-bus-24-regular",
+      "path": "/category-icons/vehicle-bus-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/vehicle-bus-24-regular/",
+      "sha256": "d9c2f8a61f7406cd937ab2ceaf1a5128d294795b1da5b80225234a3e9c33fca0"
+    },
+    "vehicle-cab-24-regular": {
+      "icon": "fluent:vehicle-cab-24-regular",
+      "path": "/category-icons/vehicle-cab-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/vehicle-cab-24-regular/",
+      "sha256": "fcf08dc31ad7e49b4bcd1426f5a6b43a248a5d21dbd297d75a79fc5e52e00ccc"
+    },
+    "vehicle-car-24-regular": {
+      "icon": "fluent:vehicle-car-24-regular",
+      "path": "/category-icons/vehicle-car-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/vehicle-car-24-regular/",
+      "sha256": "b93698bb06c9a1a1284ddd1e27785b2ba68d991121589473de6bd3d7ccc354e0"
+    },
+    "vehicle-subway-24-regular": {
+      "icon": "fluent:vehicle-subway-24-regular",
+      "path": "/category-icons/vehicle-subway-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/vehicle-subway-24-regular/",
+      "sha256": "1224c0501783c8749764e4853678b7e81602c76a5b1e9e8889e8e0ba385a2ca7"
+    },
+    "wallet-24-regular": {
+      "icon": "fluent:wallet-24-regular",
+      "path": "/category-icons/wallet-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/wallet-24-regular/",
+      "sha256": "0cd5d4ac5a7229868aa6deaf48e9840699f5e37b457a460a3f12e768fe4c1094"
+    },
+    "wifi-1-24-regular": {
+      "icon": "fluent:wifi-1-24-regular",
+      "path": "/category-icons/wifi-1-24-regular.svg",
+      "source_page": "https://icon-sets.iconify.design/fluent/wifi-1-24-regular/",
+      "sha256": "c1f0489bc9886a2e332a936dfbdb958bffa9735c23e441499788c421b96f79a7"
+    }
+  }
+}
